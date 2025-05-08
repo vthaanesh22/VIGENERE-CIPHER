@@ -1,9 +1,6 @@
-# VIGENERE-CIPHER
-## EX. NO: 4
- 
-
+## EX. NO: 4 
 ## IMPLEMETATION OF VIGENERE CIPHER
- 
+
 
 ## AIM:
 
